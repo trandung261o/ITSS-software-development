@@ -1,14 +1,14 @@
-**week1.1** Software Development Process  
-**week1.2** VersionControl  
-**week2** RequirementModeling WithUC  
-**week3.2** Architectural Design  
-**week3.2** Architectural Patterns-edited  
-**week4** Identify Design Elements  
-**week5** Interface Design  
-**week6** Class Design  
-**week7** Data Modeling  
-**week8** Unit Test  
-**week9** Programming  
-**week10** Design Concepts - Student  
-**week11** Design Principles  
-**week12** Design Patterns  
+**week 1.1** Software Development Process  
+**week 1.2** VersionControl  
+**week 2** RequirementModeling WithUC  
+**week 3.2** Architectural Design  
+**week 3.2** Architectural Patterns-edited  
+**week 4** Identify Design Elements  
+**week 5** Interface Design  
+**week 6** Class Design  
+**week 7** Data Modeling  
+**week 8** Unit Test  
+**week 9** Programming  
+**week 10** Design Concepts - Student  
+**week 11** Design Principles  
+**week 12** Design Patterns  
